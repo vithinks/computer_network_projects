@@ -68,7 +68,7 @@ public class App
 			String str= String.valueOf(ipd);
 			String strs= String.valueOf(ips);
 			String udp= String.valueOf(udpport);
-			
+//Objects had to be converted to strings so that they can be processed more efficiently within the mySQL server			
 			
 try {
 				
